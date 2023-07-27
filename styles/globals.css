@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+
+    overflow-x: hidden;
+}
+/* .product-card{
+background: rgba(255,255,255,0.1);
+}
+.home{
+}
+.product-card:hover{
+    background: rgb(247,247,247);
+} */
+
